@@ -1,0 +1,12 @@
+html {
+  background: #e2e5ff;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+.grid {
+  grid-template-columns: repeat(50, 15px);
+  width: fit-content;
+}
